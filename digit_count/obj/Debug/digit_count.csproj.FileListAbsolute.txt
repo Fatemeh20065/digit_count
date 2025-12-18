@@ -1,0 +1,6 @@
+c:\users\parse300\documents\visual studio 2012\Projects\digit_count\digit_count\bin\Debug\digit_count.exe.config
+c:\users\parse300\documents\visual studio 2012\Projects\digit_count\digit_count\bin\Debug\digit_count.exe
+c:\users\parse300\documents\visual studio 2012\Projects\digit_count\digit_count\bin\Debug\digit_count.pdb
+c:\users\parse300\documents\visual studio 2012\Projects\digit_count\digit_count\obj\Debug\digit_count.csprojResolveAssemblyReference.cache
+c:\users\parse300\documents\visual studio 2012\Projects\digit_count\digit_count\obj\Debug\digit_count.exe
+c:\users\parse300\documents\visual studio 2012\Projects\digit_count\digit_count\obj\Debug\digit_count.pdb
